@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  redirect 'http://t.me/affiliate_link_gen_bot', 303
+  redirect 'https://t.me/Affiliate_Create_bot', 303
 end

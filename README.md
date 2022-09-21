@@ -94,15 +94,7 @@ https://flipkart.com
 
 3. You can open an issue on github if you find any.
 
-### Demo
 
-1. Goto
-
-   > [Telegram Bot Link](http://t.me/affiliate_link_gen_bot)
-
-2. Continue from the Setup No. 14
-
----
 
 ## To Contribute (Add new Feature, Improve Something )
 
@@ -140,6 +132,6 @@ https://flipkart.com
 
 Thanks, Contributions are welcome! <3.
 
-Made with :heart: and ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+Made with :heart: and ![Infotrackcom]
 
 #### DISCLAIMER: This software is for educational purposes only. This software should not be used for illegal activity. The author is not responsible for its use.
